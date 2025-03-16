@@ -13,8 +13,7 @@ Gemma Model Document Q&A is an AI-powered web application that allows users to u
 ## 🛠️ Installation
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-repo/gemma-qna.git
-   cd gemma-qna
+   git clone https://github.com/Abubakar0011/Documment-Q-A-using-Groq-Gemma.git
    ```
 2. **Create a Virtual Environment:**
    ```sh
